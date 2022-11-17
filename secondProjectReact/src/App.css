@@ -1,0 +1,39 @@
+body{
+  background-color: beige;
+}
+
+#root {
+  background-color: black;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App{
+  border-radius: 8px;
+}
+
+.subtitle{
+  padding: 2px;
+}
+
+.card {
+  padding: 5em;
+}
+
+.paragrafo {
+  color: #888;
+  text-align: center;
+  margin: auto;
+}
+
+img{
+  border-radius: 50px;
+}
+
+div .repositorio{
+  display:block;
+  color: red;
+  padding: 5px;
+}
