@@ -33,7 +33,8 @@ export function Search() {
             {repositoriosFiltrados.map((item) => {
                 return (
                     <div key={item.id}>
-                        <p>{item.name}</p>
+                        <p className="nameRepo">{item.name}</p>
+                        <a className="link" href={item.html_url} target={"_blank"}>Link</a>
                     </div>
                 )
                 })}

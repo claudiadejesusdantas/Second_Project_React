@@ -37,3 +37,17 @@ div .repositorio{
   color: red;
   padding: 5px;
 }
+
+.nameRepo{
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.link{
+  text-decoration: none;
+  color: red;
+}
+
+.link:hover{
+  color: #fafafa;
+}

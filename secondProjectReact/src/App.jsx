@@ -8,6 +8,7 @@ function App() {
   return (
 
     <section className="App">
+      <h1>Meu github search</h1>
       <Bio/>
       <Search/>
       <Footer text="Claudia de Jesus Dantas"/>
